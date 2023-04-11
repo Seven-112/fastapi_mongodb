@@ -74,4 +74,4 @@ This article will teach you how to create a CRUD RESTful API with Python, FastAP
 
 Read the entire article here: [https://codevoweb.com/crud-restful-api-server-with-python-fastapi-and-mongodb](https://codevoweb.com/crud-restful-api-server-with-python-fastapi-and-mongodb)
 
-## Further
+##
